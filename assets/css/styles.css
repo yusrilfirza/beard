@@ -1,0 +1,19 @@
+.footer {
+  position:fixed;
+  left:0px;
+  right:0px;
+  bottom:0px;
+}
+
+.header {
+  position:fixed;
+  top:0px;
+  left:0px;
+  right:0px;
+}
+
+#out {
+  border-radius:19px;
+  box-shadow:inset -2px -2px 0px 0px rgba(0,0,0,0.33);
+}
+
